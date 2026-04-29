@@ -35,4 +35,4 @@
 
 3. Run Minecraft once with Forge (creates folders)
 
-3. Place [mods](mods) folder in `.minecraf/`
+3. Place [mods](mods) folder in `.minecraft/`
