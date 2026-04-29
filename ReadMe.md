@@ -23,6 +23,10 @@
 
 [Roguelike dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)
 
+[Portal gun](https://www.curseforge.com/minecraft/mc-mods/portal-gun)
+
+[ichunutil](https://www.curseforge.com/minecraft/mc-mods/ichunutil)(required for portal gun)
+
 ## Setup
 
 1. Install [Java](https://adoptium.net/).
