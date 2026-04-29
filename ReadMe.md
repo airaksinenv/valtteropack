@@ -21,6 +21,8 @@
 
 [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 
+[Roguelike dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)
+
 ## Setup
 
 1. Install [Java](https://adoptium.net/).
