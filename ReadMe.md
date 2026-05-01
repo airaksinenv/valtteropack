@@ -27,6 +27,8 @@
 
 [ichunutil](https://www.curseforge.com/minecraft/mc-mods/ichunutil)(required for portal gun)
 
++others unmentioned 
+
 ## Setup
 
 1. Install [Java](https://adoptium.net/).
